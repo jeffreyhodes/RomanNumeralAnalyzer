@@ -1,4 +1,16 @@
 Python code for performing roman numeral analysis on classical music.  Requires
 the music21 library, available at mit.edu/music21.
 
-This work originated in a Princeton University senior thesis project in 2012.
+This work originated in a Princeton University senior thesis project in 2012
+with Dmitri Tymoczko.
+
+Usage:
+
+1) Make sure music21 is installed
+2) Get a file in Humdrum or MusicXML format (available at kern.ccarh.org)
+3) Run this:
+
+$ python mlabel.py file.krn
+
+4) The analysis is printed to standard output
+

@@ -1,0 +1,570 @@
+0-True 0
+0-True 0
+0-True 0
+0-True 2,5,7
+0-True None
+0-True None
+0-True 0,4,7
+0-True None
+0-True None
+0-True 2,5,7
+0-True None
+0-True None
+0-True 0,2,4
+0-True 0,4
+0-True 4,7,8
+0-True 5,9,11
+0-True 0,9
+0-True 2,4
+0-True 2,5,7
+0-True 5,9
+0-True 0,6,9
+0-True 0,7,11
+0-True 2,11
+0-True 4,7
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+0-True 7
+0-True 0,4,7
+0-True 2,7,11
+0-True 0,4
+0-True 0,4
+0-True 0
+0-True 0,5,9
+0-True 0,4,7
+0-True 0,2,5
+0-True 0,2,5
+0-True 0,4
+0-True 0,4
+0-True 0,4
+0-True 0,2,5
+0-True 0,2,11
+0-True 0,4
+0-True 0
+0-True 0
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7-True 0,4
+7-True 0,9
+7-True 0,4
+7-True 2,11
+7-True 7,11
+7-True 2,11
+7-True 0,9
+7-True 6,9
+7-True 0,9
+7-True 7,11
+7-True 2,7
+7-True 7,11
+7-True 0,4
+7-True 0,8,9
+7-True 9,11
+.
+.
+.
+.
+.
+7-True 1,7,11
+7-True 2,6,9
+7-True None
+7-True 1
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7-True 2
+7-True None
+7-True None
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7-True 2,7,11
+7-True 2,11
+7-True 2,7,11
+7-True 2,6
+7-True 2,9
+7-True 0,2,6
+.
+.
+.
+.
+.
+.
+7-True 7,11
+7-True 2,7
+7-True 6,7,11
+7-True 2,4,7
+7-True 0,4,7
+7-True 2,6,11
+7-True 0,4,11
+7-True 0,4,9
+7-True 1,7
+7-True 2,7
+7-True 7,9
+7-True 6
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7-True 7,11
+7-True 2,7
+7-True 7,11
+7-True 2,6
+7-True 1,2,6
+7-True 0,2,6
+.
+.
+.
+.
+.
+.
+7-True 2,7,11
+7-True 6,7
+7-True 2,4
+7-True 0,2,4,7
+7-True 0,4,7
+7-True 2,6,10,11
+7-True 0,4,9,11
+7-True 0,4,9
+7-True 2,6,7,11
+7-True 0,9
+7-True 2,7,11
+7-True 2,6,9
+7-True 7,9
+7-True 7,11
+7-True 2,4
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7-True 7
+7-True 5,11
+7-True 5,11
+7-True 0,4
+7-True 7
+7-True 4
+7-True 0
+7-True 4,7
+7-True 4,7
+7-True 2,6
+7-True 0
+7-True 9
+.
+.
+.
+7-True 7,11
+7-True 6,7
+7-True 2,11
+7-True 0,2,9
+7-True 0,11
+7-True 6,9
+.
+.
+.
+.
+.
+.
+7-True 7
+7-True 7,11
+7-True 2,7,11
+.
+.
+.
+2-False None
+2-False None
+2-False None
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2-False 4,7,9
+2-False 4,7,11
+2-False 1,4,7
+2-False 2,5
+2-False 2,4,5
+2-False 2,5
+2-False 2,4,7
+2-False 2,4
+2-False 1,4,9
+2-False 2,5
+2-False 2,5
+2-False None
+0-True 5
+0-True 5
+0-True 5
+.
+.
+.
+.
+.
+.
+.
+.
+.
+0-True 2,5,7
+0-True 2,5,9
+0-True 2,5,11
+0-True 0,4
+0-True 0,2,4
+0-True 0,4
+0-True 2,5,7
+0-True 2,5,9
+0-True 2,5,11
+0-True 0,4
+0-True 0,2,4
+0-True 0,4
+9-False 2,4,11
+9-False 2,6,11
+9-False 2,8,11
+9-False 0,9
+9-False 0,9,11
+9-False 0,9
+9-False 2,4,11
+9-False 2,6,11
+9-False 2,8,11
+9-False 0,9
+9-False 0,9,11
+9-False 0,9
+.
+.
+.
+9-False 0,4,9
+9-False 8,9
+9-False 0,4,9
+9-False 2,8,11
+9-False 6,8
+9-False 2,8,11
+9-False 0,4,9
+9-False 8,9
+9-False 0,4,9
+.
+.
+.
+9-False 4,8,11
+9-False 3,4
+9-False 4,8
+.
+.
+.
+.
+.
+.
+9-False 4
+9-False None
+9-False None
+0-True None
+0-True None
+0-True 4,7
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+0-True 0,4
+0-True 0,9
+0-True 0,4
+0-True 2,11
+0-True 7,11
+0-True 2,11
+0-True 0,9
+0-True 6,9
+0-True 0,9
+0-True 7,11
+0-True 2,7
+0-True 7,11
+0-True 5,9
+0-True 2,5
+0-True 5,9
+0-True 4,7
+0-True 0,4
+0-True 4,7
+0-True 2,5
+0-True 2,11
+0-True 2,5
+0-True 0,4
+0-True 0,7
+0-True 0,4
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+0-True 0
+0-True 0,11
+0-True 0,2
+.
+.
+.
+.
+.
+.
+.
+.
+.
