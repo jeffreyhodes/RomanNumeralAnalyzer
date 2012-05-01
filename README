@@ -1,0 +1,4 @@
+Python code for performing roman numeral analysis on classical music.  Requires
+the music21 library, available at mit.edu/music21.
+
+This work originated in a Princeton University senior thesis project in 2012.
